@@ -1,0 +1,1 @@
+This is a simple java based application named BookWebApplication using java advanced concept where the user input book information and it save into databases and fetch details from databases and delete and update details.
